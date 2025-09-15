@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Mahlet Assefa</h1>
-<h3 align="center">Hey there! I'm a mobile developer from Ethiopia, building cool apps with care and creativity.</h3>
+<h3 align="center">Hey there! I'm a full stack developer, building cool things.</h3>
 
 <img align="right" height="250" width="375" alt="" src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/coder.gif" />
 
@@ -8,14 +8,14 @@
 
 - 🌱 I’m currently learning **Node.js**
 - 🚀 &nbsp; I’m currently exploring ML, Gen AI, LLMs, etc.
-- 💬 &nbsp; Ask me about Flutter I am happy to help.
+- 💬 &nbsp; dm for any inquiries.
 - 📫 How to reach me **mahletassefacodes@gmail.com**
 
 ### My Absolute Favorites:
 
 - 💻 &nbsp; I love exploring new places.
 - 📰 &nbsp; Reading on medium about Tech Stuff whenever possible.
-- 🍕 &nbsp; Meetups & Tech Events, especially for the food and free stickers.
+- 🍕 &nbsp; Meetups & Tech Events.
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
